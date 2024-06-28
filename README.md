@@ -1,13 +1,13 @@
 ## Dealique Escrow Payment Gateway for WooCommerce
-Contributors: chukwudionyekwere, glonyekwere
-Donate link: https://usedealique.com/
-Tags: woocommerce, payment gateway, dealique, escrow
-Requires at least: 5.0
-Tested up to: 6.2
-Stable tag: 1.0
-Requires PHP: 7.0
-License: GPLv3
-License URI: https://www.gnu.org/licenses/gpl-3.0.html
+* Contributors: chukwudionyekwere, glonyekwere
+* Donate link: https://usedealique.com/
+* Tags: woocommerce, payment gateway, dealique, escrow
+* Requires at least: 5.0
+* Tested up to: 6.2
+* Stable tag: 1.0
+* Requires PHP: 7.0
+* License: GPLv3
+* License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
 Integrates WooCommerce with Dealique for secure escrow payment processing.
 
