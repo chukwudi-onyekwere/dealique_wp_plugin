@@ -1,4 +1,4 @@
-=== Dealique Escrow Payment Gateway for WooCommerce ===
+## Dealique Escrow Payment Gateway for WooCommerce
 Contributors: chukwudionyekwere, glonyekwere
 Donate link: https://usedealique.com/
 Tags: woocommerce, payment gateway, dealique, escrow
